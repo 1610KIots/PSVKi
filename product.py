@@ -1,2 +1,2 @@
 print('Coffe')
-print('tea')
+print('peter')
