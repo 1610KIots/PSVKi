@@ -1,1 +1,2 @@
-print('
+print('Coffe')
+print('tea')
